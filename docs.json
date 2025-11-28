@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "amber",
+  "theme": "ruby",
   "name": "Project1505",
   "colors": {
     "primary": "#BD0835",
