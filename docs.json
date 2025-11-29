@@ -28,7 +28,7 @@
               "/ventures/corporation/imagined"
             ]
           },
-                      {
+                     {
             "group": "Chapter 2",
             "pages": [
               "/ventures/corporation/cheroann"
@@ -79,6 +79,25 @@
               "ai-tools/cursor",
               "ai-tools/claude-code",
               "ai-tools/windsurf"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Chapter 1",
+        "groups": [
+          {
+            "group": "First checkpoint in the roadmap",
+            "pages": [
+              "/ventures/1"
+            ]
+          },
+          {
+            "group": "Ventures",
+            "pages": [
+              "/ventures/non-profit/northoverse",
+              "/ventures/corporation/shadow",
+              "/ventures/corporation/imagined"
             ]
           }
         ]
