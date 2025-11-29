@@ -84,11 +84,6 @@
           "anchor": "Play Store",
           "href": "https://play.google.com/store/apps/dev?id=6071620312971095840",
           "icon": "android"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
         }
       ]
     }
