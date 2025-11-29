@@ -40,15 +40,16 @@
         {
           "group": "Core Values",
           "pages": [
-            "/quickstart/apply",
-            "/quickstart/discord"
+            "/quickstart/mission-vision",
+            "/quickstart/our-story",
+            "/quickstart/core-values"
           ]
         },
         {
-          "group": "Core Values",
+          "group": "Team and our portfolio",
           "pages": [
-            "/quickstart/apply",
-            "/quickstart/discord"
+            "/quickstart/the-team",
+            "/quickstart/portfolio"
           ]
         },
         {
