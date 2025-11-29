@@ -148,7 +148,7 @@
             ]
           },
                {
-      "group": "Vision Hub",
+      "group": "Northoverse - Community-based business incubation hub, Non-Profit",
       "pages": [
         {
           "group": "Core Values",
@@ -164,7 +164,31 @@
             "/quickstart/the-team",
             "/quickstart/portfolio"
           ]
+        },
+                  {
+      "group": "Org Resources & Community",
+      "pages": [
+        {
+          "group": "Resources",
+          "pages": [
+            "/quickstart/tech-stack",
+            "/quickstart/office-facilities",
+            "/quickstart/operational-policies"
+          ]
+        },
+        {
+          "group": "Community",
+          "pages": [
+            "/quickstart/events-workshops",
+            "/quickstart/investor-directory",
+            "/quickstart/partners-network",
+            "/quickstart/investors-network",
+            "/quickstart/aluminis-network",
+            "/quickstart/students-network"
+          ]
         }
+      ]
+    }
       ]
     }
   ]
