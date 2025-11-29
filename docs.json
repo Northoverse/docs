@@ -13,7 +13,7 @@
       {
         "tab": "Introduction",
         "groups": [
-          {
+    {
       "group": "Getting started",
       "pages": [
         "index",
@@ -21,12 +21,18 @@
       ]
     },
     {
-      "group": "Quickstart", 
+      "group": "Quickstart",
       "pages": [
-        "/quickstart/apply",
-        "/quickstart/discord", 
-        "/quickstart/googlegroups",
-        "/quickstart/socials"
+        {
+          "group": "Quickstart Guide",
+          "pages": [
+            "quickstart/index",
+            "/quickstart/apply",
+            "/quickstart/discord", 
+            "/quickstart/googlegroups",
+            "/quickstart/socials"
+          ]
+        }
       ]
     },
           {
