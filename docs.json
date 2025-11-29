@@ -146,6 +146,14 @@
               "/ventures/corporation/shadow",
               "/ventures/corporation/imagined"
             ]
+          },
+                    {
+            "group": "Northoverse",
+            "pages": [
+              "/ventures/non-profit/northoverse",
+              "/ventures/corporation/shadow",
+              "/ventures/corporation/imagined"
+            ]
           }
         ]
       },
