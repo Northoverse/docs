@@ -79,12 +79,12 @@
           "anchor": "github",
           "href": "https://github.com/Northoverse/Northoverse.github.io.git",
           "icon": "newspaper"
-        }
+        },
         {
           "anchor": "Blog",
           "href": "https://mintlify.com/blog",
           "icon": "newspaper"
-        }
+        },
       ]
     }
   },
