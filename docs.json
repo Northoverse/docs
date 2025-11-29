@@ -16,7 +16,8 @@
     {
       "group": "Getting started",
       "pages": [
-        "index"
+        "index",
+        "quickstart"
       ]
     },
     {
@@ -25,7 +26,6 @@
         {
           "group": "Guides",
           "pages": [
-            "quickstart",
             "/quickstart/apply",
             "/quickstart/discord", 
             "/quickstart/googlegroups",
