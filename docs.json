@@ -70,8 +70,12 @@
         {
           "group": "Founders",
           "pages": [
-            "/quickstart/the-team",
-            "/quickstart/portfolio"
+            "/quickstart/program-overview",
+            "/quickstart/program-tracks",
+            "/quickstart/curriculum",
+            "/quickstart/mentor-network",
+            "/quickstart/events-guide",
+            "/quickstart/grant-terms"
           ]
         }
       ]
