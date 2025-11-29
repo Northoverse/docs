@@ -20,6 +20,14 @@
               "quickstart"
             ]
           },
+                    {
+            "group": "Ventures",
+            "pages": [
+              "/ventures/non-profit/northoverse",
+              "/ventures/corporation/shadow",
+              "/ventures/corporation/imagined"
+            ]
+          },
           {
             "group": "Customization",
             "pages": [
