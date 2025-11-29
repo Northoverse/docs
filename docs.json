@@ -147,16 +147,28 @@
               "/ventures/corporation/imagined"
             ]
           },
-                    {
-            "group": "Northoverse",
-            "pages": [
-              "/ventures/non-profit/northoverse",
-              "/ventures/corporation/shadow",
-              "/ventures/corporation/imagined"
-            ]
-          }
-        ]
-      },
+               {
+      "group": "Vision Hub",
+      "pages": [
+        {
+          "group": "Core Values",
+          "pages": [
+            "/quickstart/mission-vision",
+            "/quickstart/our-story",
+            "/quickstart/core-values"
+          ]
+        },
+        {
+          "group": "Team and our portfolio",
+          "pages": [
+            "/quickstart/the-team",
+            "/quickstart/portfolio"
+          ]
+        }
+      ]
+    }
+  ]
+},
       {
         "tab": "Chapter 2",
         "groups": [
