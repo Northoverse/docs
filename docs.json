@@ -46,7 +46,7 @@
           ]
         },
         {
-          "group": "Team and our portfolio",
+          "group": "Team and Our Portfolio",
           "pages": [
             "/quickstart/the-team",
             "/quickstart/portfolio"
@@ -55,7 +55,7 @@
       ]
     },
           {
-            "group": "Customization",
+            "group": "More",
             "pages": [
               "essentials/navigation",
               "essentials/images"
@@ -63,6 +63,7 @@
           }
         ]
       },
+      
       {
         "tab": "Chapter 1",
         "groups": [
