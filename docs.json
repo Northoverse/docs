@@ -17,7 +17,7 @@
       "group": "Getting started",
       "pages": [
         "index",
-        "quickstart",
+        "quickstart/index",
         "/quickstart/apply",
         "/quickstart/discord", 
         "/quickstart/googlegroups",
