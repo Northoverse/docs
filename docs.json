@@ -20,20 +20,6 @@
         "quickstart"
       ]
     },
-    {
-      "group": "On Board",
-      "pages": [
-        {
-          "group": "Qickstart Guides",
-          "pages": [
-            "/quickstart/apply",
-            "/quickstart/discord", 
-            "/quickstart/googlegroups",
-            "/quickstart/socials"
-          ]
-        }
-      ]
-    },
               {
       "group": "Vision Hub",
       "pages": [
