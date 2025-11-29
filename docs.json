@@ -75,6 +75,11 @@
           "href": "https://www.notion.so/project-1505/Project1505-2650987785338007b58fc97fcc1517e1?source=copy_link",
           "icon": "book-open-cover"
         },
+                {
+          "anchor": "GitHub",
+          "href": "https://github.com/Northoverse/Northoverse.github.io",
+          "icon": "github"
+        }
         {
           "anchor": "Blog",
           "href": "https://mintlify.com/blog",
