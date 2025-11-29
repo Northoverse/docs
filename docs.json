@@ -20,21 +20,21 @@
               "quickstart"
             ]
           },
-          {
+                    {
             "group": "Chapter 1",
             "pages": [
               "/ventures/non-profit/northoverse",
-              "/ventures/corporation/shadow", 
+              "/ventures/corporation/shadow",
               "/ventures/corporation/imagined"
             ]
           },
-          {
-            "group": "Chapter 2", 
+                      {
+            "group": "Chapter 2",
             "pages": [
               "/ventures/corporation/cheroann"
             ]
           },
-          {
+                      {
             "group": "Chapter 3",
             "pages": [
               "/ventures/corporation/arm",
@@ -42,15 +42,15 @@
               "/ventures/corporation/bittm"
             ]
           },
-          {
+                      {
             "group": "Chapter 4",
             "pages": [
               "/ventures/corporation/particle-shredder",
-              "/ventures/corporation/particle-farm", 
+              "/ventures/corporation/particle-farm",
               "/ventures/corporation/dpn"
             ]
           },
-          {
+                      {
             "group": "Chapter 5",
             "pages": [
               "/ventures/corporation/particle-factory",
@@ -69,7 +69,7 @@
             "pages": [
               "essentials/markdown",
               "essentials/code",
-              "essentials/images", 
+              "essentials/images",
               "essentials/reusable-snippets"
             ]
           },
@@ -84,7 +84,7 @@
         ]
       },
       {
-        "tab": "API reference", 
+        "tab": "API reference",
         "groups": [
           {
             "group": "API documentation",
@@ -111,12 +111,12 @@
           "href": "https://www.notion.so/project-1505/Project1505-2650987785338007b58fc97fcc1517e1?source=copy_link",
           "icon": "notion"
         },
-        {
+                {
           "anchor": "GitHub",
-          "href": "https://github.com/Northoverse/Northoverse.github.io.git", 
+          "href": "https://github.com/Northoverse/Northoverse.github.io.git",
           "icon": "github"
         },
-        {
+                        {
           "anchor": "Play Store",
           "href": "https://play.google.com/store/apps/dev?id=6071620312971095840",
           "icon": "android"
@@ -136,22 +136,22 @@
       }
     ],
     "primary": {
-      "type": "button", 
+      "type": "button",
       "label": "Dashboard",
       "href": "https://dashboard.mintlify.com"
     }
   },
   "contextual": {
     "options": [
-      "copy",
-      "view", 
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
-    ]
+     "copy",
+     "view",
+     "chatgpt",
+     "claude",
+     "perplexity",
+     "mcp",
+     "cursor",
+     "vscode"
+   ]
   },
   "footer": {
     "socials": {
