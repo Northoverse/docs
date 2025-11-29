@@ -25,7 +25,7 @@
         {
           "group": "Quickstart",
           "pages": [
-            "quickstart/index",
+            "quickstart",
             "/quickstart/apply",
             "/quickstart/discord", 
             "/quickstart/googlegroups",
