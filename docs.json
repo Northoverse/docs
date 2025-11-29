@@ -51,20 +51,6 @@
             "/quickstart/the-team",
             "/quickstart/portfolio"
           ]
-        },
-        {
-          "group": "Core Values",
-          "pages": [
-            "/quickstart/apply",
-            "/quickstart/discord"
-          ]
-        },
-        {
-          "group": "Core Values",
-          "pages": [
-            "/quickstart/apply",
-            "/quickstart/discord"
-          ]
         }
       ]
     },
