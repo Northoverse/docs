@@ -16,12 +16,10 @@
     {
       "group": "Getting started",
       "pages": [
-        "index",
-        "quickstart"
+        "index"
       ]
     },
     {
-      "group": "Quickstart",
       "pages": [
         {
           "group": "Quickstart Guide",
