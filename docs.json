@@ -54,6 +54,28 @@
         }
       ]
     },
+              {
+      "group": "For Our Applicants and Founders",
+      "pages": [
+        {
+          "group": "Applicants",
+          "pages": [
+            "/quickstart/eligibility",
+            "/quickstart/application-faq",
+            "/quickstart/application-process",
+            "/quickstart/selection-criteria",
+            "/quickstart/onboarding-guide"
+          ]
+        },
+        {
+          "group": "Founders",
+          "pages": [
+            "/quickstart/the-team",
+            "/quickstart/portfolio"
+          ]
+        }
+      ]
+    },
           {
             "group": "Customization",
             "pages": [
