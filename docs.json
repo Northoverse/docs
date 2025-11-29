@@ -21,11 +21,40 @@
             ]
           },
                     {
-            "group": "Ventures",
+            "group": "Chapter 1",
             "pages": [
               "/ventures/non-profit/northoverse",
               "/ventures/corporation/shadow",
               "/ventures/corporation/imagined"
+            ]
+          },
+                      {
+            "group": "Chapter 2",
+            "pages": [
+              "/ventures/corporation/cheroann"
+            ]
+          },
+                      {
+            "group": "Chapter 3",
+            "pages": [
+              "/ventures/corporation/arm",
+              "/ventures/franchise/food-truck-net",
+              "/ventures/corporation/bittm"
+            ]
+          },
+                      {
+            "group": "Chapter 4",
+            "pages": [
+              "/ventures/corporation/particle-shredder",
+              "/ventures/corporation/particle-farm",
+              "/ventures/corporation/dpn"
+            ]
+          },
+                      {
+            "group": "Chapter 5",
+            "pages": [
+              "/ventures/corporation/particle-factory",
+              "/ventures/corporation/caffeine"
             ]
           },
           {
