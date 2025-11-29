@@ -20,6 +20,15 @@
               "quickstart"
             ]
           },
+                    {
+            "group": "Quickstart",
+            "pages": [
+              "/quickstart/apply",
+              "/quickstart/discord",
+              "/quickstart/googlegroups",
+              "/quickstart/socials"
+            ]
+          },
           {
             "group": "Customization",
             "pages": [
@@ -187,7 +196,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:projekt1505@gmail.com"
       }
     ],
     "primary": {
