@@ -14,25 +14,19 @@
         "tab": "Introduction",
         "groups": [
           {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart"
-            ]
-          },
-    {
-      "group": "Quickstart",
+      "group": "Getting started",
       "pages": [
-        {
-          "group": "Quickstart Guide",
-          "pages": [
-            "quickstart/index",
-            "/quickstart/apply",
-            "/quickstart/discord", 
-            "/quickstart/googlegroups",
-            "/quickstart/socials"
-          ]
-        }
+        "index",
+        "quickstart"
+      ]
+    },
+    {
+      "group": "Quickstart", 
+      "pages": [
+        "/quickstart/apply",
+        "/quickstart/discord", 
+        "/quickstart/googlegroups",
+        "/quickstart/socials"
       ]
     },
           {
