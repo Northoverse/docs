@@ -20,10 +20,10 @@
       ]
     },
     {
-      "group": "Quickstart",
+      "group": "On Board",
       "pages": [
         {
-          "group": "Quickstart Guide",
+          "group": "Quickstart",
           "pages": [
             "quickstart/index",
             "/quickstart/apply",
