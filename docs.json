@@ -54,32 +54,6 @@
         }
       ]
     },
-              {
-      "group": "For Our Applicants and Founders",
-      "pages": [
-        {
-          "group": "Applicants",
-          "pages": [
-            "/quickstart/eligibility",
-            "/quickstart/application-faq",
-            "/quickstart/application-process",
-            "/quickstart/selection-criteria",
-            "/quickstart/onboarding-guide"
-          ]
-        },
-        {
-          "group": "Founders",
-          "pages": [
-            "/quickstart/program-overview",
-            "/quickstart/program-tracks",
-            "/quickstart/curriculum",
-            "/quickstart/mentor-network",
-            "/quickstart/events-guide",
-            "/quickstart/grant-terms"
-          ]
-        }
-      ]
-    },
           {
             "group": "Customization",
             "pages": [
