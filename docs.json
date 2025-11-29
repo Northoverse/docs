@@ -76,9 +76,9 @@
           "icon": "book-open-cover"
         },
                 {
-          "anchor": "github",
+          "anchor": "GitHub",
           "href": "https://github.com/Northoverse/Northoverse.github.io.git",
-          "icon": "newspaper"
+          "icon": "github"
         },
         {
           "anchor": "Blog",
