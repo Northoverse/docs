@@ -20,8 +20,6 @@
         "quickstart"
       ]
     },
-    {
-      "pages": [
         {
           "group": "Qickstart Guides",
           "pages": [
@@ -30,8 +28,8 @@
             "/quickstart/googlegroups",
             "/quickstart/socials"
           ]
-        }
-      ]
+        
+      
     },
           {
             "group": "Customization",
