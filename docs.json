@@ -55,6 +55,20 @@
       ]
     },
           {
+      "group": "Reach Out",
+      "pages": [
+        {
+          "group": "Ways to Contribute",
+          "pages": [
+            "/quickstart/apply",
+            "/quickstart/discord", 
+            "/quickstart/googlegroups",
+            "/quickstart/socials"
+          ]
+        }
+      ]
+    },
+          {
             "group": "More",
             "pages": [
               "essentials/navigation",
