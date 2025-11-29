@@ -413,9 +413,8 @@
               "/ventures/corporation/bittm"
             ]
           },
-          
                {
-      "group": "Northoverse - Community-based business incubation hub, Non-Profit",
+      "group": "ARM - Product Manufacturing Company",
       "pages": [
         {
           "group": "Core Values",
@@ -485,7 +484,7 @@
       ]
      },
       {
-      "group": "5hadow - Business Operations Management Company",
+      "group": "Food Truck Network - A Franchise Concept-Based Food Truck Company",
       "pages": [
         {
           "group": "Core Values",
@@ -555,7 +554,7 @@
       ]
      },
           {
-      "group": "5hadow - Business Operations Management Company",
+      "group": "BitTm Exchange - A Crypto ATM Company",
       "pages": [
         {
           "group": "Core Values",
@@ -642,7 +641,217 @@
               "/ventures/corporation/particle-farm",
               "/ventures/corporation/dpn"
             ]
-          }
+          },
+          {
+      "group": "Particle Shredder - A 3D Printing Filament Manufacturing Company",
+      "pages": [
+        {
+          "group": "Core Values",
+          "pages": [
+            "/quickstart/mission-vision",
+            "/quickstart/our-story",
+            "/quickstart/core-values"
+          ]
+        },
+        {
+          "group": "Team and our portfolio",
+          "pages": [
+            "/quickstart/the-team",
+            "/quickstart/portfolio"
+          ]
+        },
+                  {
+      "group": "Org Resources & Community",
+      "pages": [
+        {
+          "group": "Resources",
+          "pages": [
+            "/quickstart/tech-stack",
+            "/quickstart/office-facilities",
+            "/quickstart/operational-policies"
+          ]
+        },
+        {
+          "group": "Community",
+          "pages": [
+            "/quickstart/events-workshops",
+            "/quickstart/investor-directory",
+            "/quickstart/partners-network",
+            "/quickstart/investors-network",
+            "/quickstart/aluminis-network",
+            "/quickstart/students-network"
+          ]
+        }
+      ]
+    },
+                      {
+      "group": "For Our Applicants and Founders",
+      "pages": [
+        {
+          "group": "Applicants",
+          "pages": [
+            "/quickstart/eligibility",
+            "/quickstart/application-faq",
+            "/quickstart/application-process",
+            "/quickstart/selection-criteria",
+            "/quickstart/onboarding-guide"
+          ]
+        },
+        {
+          "group": "Founders",
+          "pages": [
+            "/quickstart/program-overview",
+            "/quickstart/program-tracks",
+            "/quickstart/curriculum",
+            "/quickstart/mentor-network",
+            "/quickstart/events-guide",
+            "/quickstart/grant-terms"
+          ]
+         }
+        ]
+       }
+      ]
+     },
+      {
+      "group": "Particle Farm - A 3D Printing Farm Company",
+      "pages": [
+        {
+          "group": "Core Values",
+          "pages": [
+            "/quickstart/mission-vision",
+            "/quickstart/our-story",
+            "/quickstart/core-values"
+          ]
+        },
+        {
+          "group": "Team and our portfolio",
+          "pages": [
+            "/quickstart/the-team",
+            "/quickstart/portfolio"
+          ]
+        },
+                  {
+      "group": "Org Resources & Community",
+      "pages": [
+        {
+          "group": "Resources",
+          "pages": [
+            "/quickstart/tech-stack",
+            "/quickstart/office-facilities",
+            "/quickstart/operational-policies"
+          ]
+        },
+        {
+          "group": "Community",
+          "pages": [
+            "/quickstart/events-workshops",
+            "/quickstart/investor-directory",
+            "/quickstart/partners-network",
+            "/quickstart/investors-network",
+            "/quickstart/aluminis-network",
+            "/quickstart/students-network"
+          ]
+        }
+      ]
+    },
+                      {
+      "group": "For Our Applicants and Founders",
+      "pages": [
+        {
+          "group": "Applicants",
+          "pages": [
+            "/quickstart/eligibility",
+            "/quickstart/application-faq",
+            "/quickstart/application-process",
+            "/quickstart/selection-criteria",
+            "/quickstart/onboarding-guide"
+          ]
+        },
+        {
+          "group": "Founders",
+          "pages": [
+            "/quickstart/program-overview",
+            "/quickstart/program-tracks",
+            "/quickstart/curriculum",
+            "/quickstart/mentor-network",
+            "/quickstart/events-guide",
+            "/quickstart/grant-terms"
+          ]
+         }
+        ]
+       }
+      ]
+     },
+          {
+      "group": "DPN - Delivery Pod Network",
+      "pages": [
+        {
+          "group": "Core Values",
+          "pages": [
+            "/quickstart/mission-vision",
+            "/quickstart/our-story",
+            "/quickstart/core-values"
+          ]
+        },
+        {
+          "group": "Team and our portfolio",
+          "pages": [
+            "/quickstart/the-team",
+            "/quickstart/portfolio"
+          ]
+        },
+                  {
+      "group": "Org Resources & Community",
+      "pages": [
+        {
+          "group": "Resources",
+          "pages": [
+            "/quickstart/tech-stack",
+            "/quickstart/office-facilities",
+            "/quickstart/operational-policies"
+          ]
+        },
+        {
+          "group": "Community",
+          "pages": [
+            "/quickstart/events-workshops",
+            "/quickstart/investor-directory",
+            "/quickstart/partners-network",
+            "/quickstart/investors-network",
+            "/quickstart/aluminis-network",
+            "/quickstart/students-network"
+          ]
+        }
+      ]
+    },
+                      {
+      "group": "For Our Applicants and Founders",
+      "pages": [
+        {
+          "group": "Applicants",
+          "pages": [
+            "/quickstart/eligibility",
+            "/quickstart/application-faq",
+            "/quickstart/application-process",
+            "/quickstart/selection-criteria",
+            "/quickstart/onboarding-guide"
+          ]
+        },
+        {
+          "group": "Founders",
+          "pages": [
+            "/quickstart/program-overview",
+            "/quickstart/program-tracks",
+            "/quickstart/curriculum",
+            "/quickstart/mentor-network",
+            "/quickstart/events-guide",
+            "/quickstart/grant-terms"
+          ]
+         }
+        ]
+       }
+      ]
+     }
         ]
       },
             {
@@ -660,7 +869,147 @@
               "/ventures/corporation/particle-factory",
               "/ventures/corporation/caffeine"
             ]
-          }
+          },
+          {
+      "group": "Particle Factory - A drone manufacturing company",
+      "pages": [
+        {
+          "group": "Core Values",
+          "pages": [
+            "/quickstart/mission-vision",
+            "/quickstart/our-story",
+            "/quickstart/core-values"
+          ]
+        },
+        {
+          "group": "Team and our portfolio",
+          "pages": [
+            "/quickstart/the-team",
+            "/quickstart/portfolio"
+          ]
+        },
+                  {
+      "group": "Org Resources & Community",
+      "pages": [
+        {
+          "group": "Resources",
+          "pages": [
+            "/quickstart/tech-stack",
+            "/quickstart/office-facilities",
+            "/quickstart/operational-policies"
+          ]
+        },
+        {
+          "group": "Community",
+          "pages": [
+            "/quickstart/events-workshops",
+            "/quickstart/investor-directory",
+            "/quickstart/partners-network",
+            "/quickstart/investors-network",
+            "/quickstart/aluminis-network",
+            "/quickstart/students-network"
+          ]
+        }
+      ]
+    },
+                      {
+      "group": "For Our Applicants and Founders",
+      "pages": [
+        {
+          "group": "Applicants",
+          "pages": [
+            "/quickstart/eligibility",
+            "/quickstart/application-faq",
+            "/quickstart/application-process",
+            "/quickstart/selection-criteria",
+            "/quickstart/onboarding-guide"
+          ]
+        },
+        {
+          "group": "Founders",
+          "pages": [
+            "/quickstart/program-overview",
+            "/quickstart/program-tracks",
+            "/quickstart/curriculum",
+            "/quickstart/mentor-network",
+            "/quickstart/events-guide",
+            "/quickstart/grant-terms"
+          ]
+         }
+        ]
+       }
+      ]
+     },
+          {
+      "group": "Caffeine - A space agency",
+      "pages": [
+        {
+          "group": "Core Values",
+          "pages": [
+            "/quickstart/mission-vision",
+            "/quickstart/our-story",
+            "/quickstart/core-values"
+          ]
+        },
+        {
+          "group": "Team and our portfolio",
+          "pages": [
+            "/quickstart/the-team",
+            "/quickstart/portfolio"
+          ]
+        },
+                  {
+      "group": "Org Resources & Community",
+      "pages": [
+        {
+          "group": "Resources",
+          "pages": [
+            "/quickstart/tech-stack",
+            "/quickstart/office-facilities",
+            "/quickstart/operational-policies"
+          ]
+        },
+        {
+          "group": "Community",
+          "pages": [
+            "/quickstart/events-workshops",
+            "/quickstart/investor-directory",
+            "/quickstart/partners-network",
+            "/quickstart/investors-network",
+            "/quickstart/aluminis-network",
+            "/quickstart/students-network"
+          ]
+        }
+      ]
+    },
+                      {
+      "group": "For Our Applicants and Founders",
+      "pages": [
+        {
+          "group": "Applicants",
+          "pages": [
+            "/quickstart/eligibility",
+            "/quickstart/application-faq",
+            "/quickstart/application-process",
+            "/quickstart/selection-criteria",
+            "/quickstart/onboarding-guide"
+          ]
+        },
+        {
+          "group": "Founders",
+          "pages": [
+            "/quickstart/program-overview",
+            "/quickstart/program-tracks",
+            "/quickstart/curriculum",
+            "/quickstart/mentor-network",
+            "/quickstart/events-guide",
+            "/quickstart/grant-terms"
+          ]
+         }
+        ]
+       }
+      ]
+     }
         ]
       },
       {
