@@ -20,15 +20,21 @@
               "quickstart"
             ]
           },
-                    {
-            "group": "Quickstart",
-            "pages": [
-              "/quickstart/apply",
-              "/quickstart/discord",
-              "/quickstart/googlegroups",
-              "/quickstart/socials"
-            ]
-          },
+    {
+      "group": "Quickstart",
+      "pages": [
+        {
+          "group": "Quickstart Guide",
+          "pages": [
+            "quickstart/index",
+            "/quickstart/apply",
+            "/quickstart/discord", 
+            "/quickstart/googlegroups",
+            "/quickstart/socials"
+          ]
+        }
+      ]
+    },
           {
             "group": "Customization",
             "pages": [
