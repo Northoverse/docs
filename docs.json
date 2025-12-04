@@ -294,6 +294,7 @@
    },
       {
         "tab": "Chapter 2",
+        "hidden": true,
         "groups": [
           {
             "group": "Second checkpoint in the roadmap",
