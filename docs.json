@@ -382,6 +382,7 @@
       },
       {
         "tab": "Chapter 3",
+        "hidden": true,
         "groups": [
           {
             "group": "Third checkpoint in the roadmap",
@@ -611,6 +612,7 @@
       },
             {
         "tab": "Chapter 4",
+        "hidden": true,
         "groups": [
           {
             "group": "Fourth checkpoint in the roadmap",
@@ -840,6 +842,7 @@
       },
             {
         "tab": "Chapter 5",
+        "hidden": true,
         "groups": [
           {
             "group": "Fifth checkpoint in the roadmap",
