@@ -84,6 +84,20 @@
                {
       "group": "Northoverse - Community-based business incubation hub, Non-Profit",
       "pages": [
+                  {
+      "group": "Reach Out",
+      "pages": [
+        {
+          "group": "Ways to Contribute",
+          "pages": [
+            "/quickstart/apply",
+            "/quickstart/discord", 
+            "/quickstart/googlegroups",
+            "/quickstart/socials"
+          ]
+        }
+      ]
+    },
         {
           "group": "Core Values",
           "pages": [
