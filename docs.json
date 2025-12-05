@@ -153,6 +153,7 @@
      },
       {
       "group": "5hadow - Business Operations Management Company",
+      "hidden": true,
       "pages": [
         {
           "group": "Core Values",
@@ -223,6 +224,7 @@
      },
           {
       "group": "1magined - Event Management Company",
+      "hidden": true,
       "pages": [
         {
           "group": "Core Values",
