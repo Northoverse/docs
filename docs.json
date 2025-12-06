@@ -92,7 +92,7 @@
           "pages": [
             "/quickstart/apply",
             "/quickstart/discord", 
-            "/quickstart/googlegroups",
+            "ventures/non-profit/northoverse/nv-quickstart/groups",
             "/quickstart/socials"
           ]
         }
