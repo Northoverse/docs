@@ -87,9 +87,19 @@
                   {
                     "group": "Ways to Contribute",
                     "pages": [
-                      "ventures/non-profit/northoverse/nv-quickstart/nv-apply",
+                      "ventures/non-profit/northoverse/nv-quickstart/groups"
+                    ]
+                  },
+                                    {
+                    "group": "Join Us!!!",
+                    "pages": [
+                      "ventures/non-profit/northoverse/nv-quickstart/nv-apply"
+                    ]
+                  },
+                                    {
+                    "group": "Socials",
+                    "pages": [
                       "ventures/non-profit/northoverse/nv-quickstart/discord",
-                      "ventures/non-profit/northoverse/nv-quickstart/groups",
                       "ventures/non-profit/northoverse/nv-quickstart/nv-socials"
                     ]
                   }
