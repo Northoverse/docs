@@ -1061,7 +1061,8 @@
   },
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/logo/p1505.png"
+    "dark": "/logo/p1505.png",
+    "logoHeight": 40
   },
   "navbar": {
     "links": [
