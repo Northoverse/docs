@@ -108,16 +108,16 @@
               {
                 "group": "Core Values",
                 "pages": [
-                  "/ventures/non-profit/northoverse/mission-vision",
                   "/ventures/non-profit/northoverse/our-story",
-                  "/ventures/non-profit/northoverse/our-core-values"
+                  "/ventures/non-profit/northoverse/our-core-values",
+                  "/ventures/non-profit/northoverse/mission-vision"
                 ]
               },
               {
                 "group": "Team and our portfolio",
                 "pages": [
-                  "/ventures/non-profit/northoverse/nv-team",
-                  "/ventures/non-profit/northoverse/nv-portfolio"
+                  "/ventures/non-profit/northoverse/nv-portfolio",
+                  "/ventures/non-profit/northoverse/nv-team"
                 ]
               },
               {
