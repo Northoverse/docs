@@ -163,8 +163,8 @@
                     "pages": [
                       "ventures/non-profit/northoverse/founders/tracks",
                       "ventures/non-profit/northoverse/founders/mentor-network",
-                      "/quickstart/events-guide",
-                      "/quickstart/grant-terms"
+                      "ventures/non-profit/northoverse/founders/events-guide",
+                      "ventures/non-profit/northoverse/founders/grant-terms"
                     ]
                   }
                 ]
