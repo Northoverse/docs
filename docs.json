@@ -135,11 +135,9 @@
                   {
                     "group": "Community",
                     "pages": [
-                      "/quickstart/events-workshops",
                       "/quickstart/partners-network",
                       "/quickstart/investors-network",
-                      "/quickstart/aluminis-network",
-                      "/quickstart/students-network"
+                      "/quickstart/aluminis-network"
                     ]
                   }
                 ]
@@ -147,6 +145,14 @@
               {
                 "group": "For Our Applicants and Founders",
                 "pages": [
+                                    {
+                    "group": "Students",
+                    "pages": [
+                      "ventures/non-profit/northoverse/students/events-workshops",
+                      "ventures/non-profit/northoverse/students/onboarding-guide",
+                      "ventures/non-profit/northoverse/students/students-network"
+                    ]
+                  },
                   {
                     "group": "Applicants",
                     "pages": [
