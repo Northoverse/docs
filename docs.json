@@ -122,10 +122,10 @@
               },
               {
                 "group": "Org Resources & Community",
-                "hidden": true,
                 "pages": [
                   {
                     "group": "Resources",
+                    "hidden": true,
                     "pages": [
                       "/quickstart/tech-stack",
                       "/quickstart/office-facilities",
