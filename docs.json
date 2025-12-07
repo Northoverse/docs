@@ -124,10 +124,25 @@
               {
                 "group": "For Our Applicants and Founders",
                 "pages": [
-                                    {
-                    "group": "Students",
+                       {
+                    "group": "High-School Students",
                     "pages": [
-                                                          {
+                                 {
+                    "group": "Events",
+                    "pages": [
+                      "ventures/non-profit/northoverse/students/events/student-workshops",
+                      "ventures/non-profit/northoverse/students/events/student-case-studies",
+                      "ventures/non-profit/northoverse/students/events/student-hackathons"
+                    ]
+                  },
+                      "ventures/non-profit/northoverse/students/students-network"
+                    ]
+                  },
+                  
+                {
+                    "group": "College Students",
+                    "pages": [
+                                {
                     "group": "Events",
                     "pages": [
                       "ventures/non-profit/northoverse/students/events/student-workshops",
@@ -139,7 +154,7 @@
                     ]
                   },
                   {
-                    "group": "Applicants",
+                    "group": "Start-up Applicants",
                     "pages": [
                       "ventures/non-profit/northoverse/applicants/program-overview",
                       "ventures/non-profit/northoverse/applicants/eligibility",
@@ -150,10 +165,11 @@
                     ]
                   },
                   {
-                    "group": "Founders",
+                    "group": "Founders & Alumni",
                     "pages": [
                       "ventures/non-profit/northoverse/founders/tracks",
                       "ventures/non-profit/northoverse/founders/mentor-network",
+                      "ventures/non-profit/northoverse/network/alumni-network",
                       "ventures/non-profit/northoverse/founders/events-guide",
                       "ventures/non-profit/northoverse/founders/grant-terms"
                     ]
@@ -176,8 +192,7 @@
                     "group": "Community",
                     "pages": [
                       "ventures/non-profit/northoverse/network/partners-network",
-                      "ventures/non-profit/northoverse/network/investors-network",
-                      "ventures/non-profit/northoverse/network/alumni-network"
+                      "ventures/non-profit/northoverse/network/investors-network"
                     ]
                   }
                 ]
