@@ -130,12 +130,11 @@
                                  {
                     "group": "Events",
                     "pages": [
-                      "ventures/non-profit/northoverse/students/events/student-workshops",
-                      "ventures/non-profit/northoverse/students/events/student-case-studies",
-                      "ventures/non-profit/northoverse/students/events/student-hackathons"
+                      "ventures/non-profit/northoverse/students/high/events/high-student-workshops",
+                      "ventures/non-profit/northoverse/students/high/events/high-student-classes"
                     ]
                   },
-                      "ventures/non-profit/northoverse/students/students-network"
+                      "ventures/non-profit/northoverse/students/high/highschool-students-network"
                     ]
                   },
                   
