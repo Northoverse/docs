@@ -122,28 +122,6 @@
                 ]
               },
               {
-                "group": "Org Resources & Community",
-                "pages": [
-                  {
-                    "group": "Resources",
-                    "hidden": true,
-                    "pages": [
-                      "/quickstart/tech-stack",
-                      "/quickstart/office-facilities",
-                      "/quickstart/operational-policies"
-                    ]
-                  },
-                  {
-                    "group": "Community",
-                    "pages": [
-                      "ventures/non-profit/northoverse/network/partners-network",
-                      "ventures/non-profit/northoverse/network/investors-network",
-                      "ventures/non-profit/northoverse/network/alumni-network"
-                    ]
-                  }
-                ]
-              },
-              {
                 "group": "For Our Applicants and Founders",
                 "pages": [
                                     {
