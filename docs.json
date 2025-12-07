@@ -150,12 +150,12 @@
                   {
                     "group": "Applicants",
                     "pages": [
-                      "/quickstart/program-overview",
-                      "/quickstart/eligibility",
-                      "/quickstart/application-faq",
-                      "/quickstart/application-process",
-                      "/quickstart/selection-criteria",
-                      "/quickstart/onboarding-guide"
+                      "ventures/non-profit/northoverse/applicants/program-overview",
+                      "ventures/non-profit/northoverse/applicants/eligibility",
+                      "ventures/non-profit/northoverse/applicants/application-faq",
+                      "ventures/non-profit/northoverse/applicants/application-process",
+                      "ventures/non-profit/northoverse/applicants/selection-criteria",
+                      "ventures/non-profit/northoverse/applicants/onboarding-guide"
                     ]
                   },
                   {
