@@ -148,7 +148,12 @@
                                     {
                     "group": "Students",
                     "pages": [
-                      "ventures/non-profit/northoverse/students/events-workshops",
+                                                          {
+                    "group": "Events",
+                    "pages": [
+                      "ventures/non-profit/northoverse/students/events-workshops"
+                    ]
+                  },
                       "ventures/non-profit/northoverse/students/onboarding-guide",
                       "ventures/non-profit/northoverse/students/students-network"
                     ]
