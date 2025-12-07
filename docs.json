@@ -135,9 +135,9 @@
                   {
                     "group": "Community",
                     "pages": [
-                      "/quickstart/partners-network",
-                      "/quickstart/investors-network",
-                      "/quickstart/aluminis-network"
+                      "ventures/non-profit/northoverse/network/partners-network",
+                      "ventures/non-profit/northoverse/network/investors-network",
+                      "ventures/non-profit/northoverse/network/aluminis-network"
                     ]
                   }
                 ]
@@ -151,12 +151,11 @@
                                                           {
                     "group": "Events",
                     "pages": [
-                      "ventures/non-profit/northoverse/students/student-workshops",
-                      "ventures/non-profit/northoverse/students/student-case-studies",
-                      "ventures/non-profit/northoverse/students/student-hackathons"
+                      "ventures/non-profit/northoverse/students/events/student-workshops",
+                      "ventures/non-profit/northoverse/students/events/student-case-studies",
+                      "ventures/non-profit/northoverse/students/events/student-hackathons"
                     ]
                   },
-                      "ventures/non-profit/northoverse/students/onboarding-guide",
                       "ventures/non-profit/northoverse/students/students-network"
                     ]
                   },
