@@ -162,8 +162,7 @@
                     "group": "Founders",
                     "pages": [
                       "ventures/non-profit/northoverse/founders/tracks",
-                      "/quickstart/curriculum",
-                      "/quickstart/mentor-network",
+                      "ventures/non-profit/northoverse/founders/mentor-network",
                       "/quickstart/events-guide",
                       "/quickstart/grant-terms"
                     ]
