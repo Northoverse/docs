@@ -150,6 +150,7 @@
                   {
                     "group": "Applicants",
                     "pages": [
+                      "/quickstart/program-overview",
                       "/quickstart/eligibility",
                       "/quickstart/application-faq",
                       "/quickstart/application-process",
@@ -160,7 +161,6 @@
                   {
                     "group": "Founders",
                     "pages": [
-                      "/quickstart/program-overview",
                       "/quickstart/program-tracks",
                       "/quickstart/curriculum",
                       "/quickstart/mentor-network",
