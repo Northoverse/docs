@@ -122,6 +122,7 @@
               },
               {
                 "group": "Org Resources & Community",
+                "hidden": true,
                 "pages": [
                   {
                     "group": "Resources",
@@ -135,7 +136,6 @@
                     "group": "Community",
                     "pages": [
                       "/quickstart/events-workshops",
-                      "/quickstart/investor-directory",
                       "/quickstart/partners-network",
                       "/quickstart/investors-network",
                       "/quickstart/aluminis-network",
