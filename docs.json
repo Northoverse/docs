@@ -73,6 +73,7 @@
           {
             "group": "Ventures",
             "pages": [
+              "/ventures/non-profit/northoverse/nv-quickstart",
               "/ventures/non-profit/northoverse",
               "/ventures/corporation/shadow",
               "/ventures/corporation/imagined"
