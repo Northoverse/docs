@@ -145,12 +145,14 @@
                                 {
                     "group": "Events",
                     "pages": [
-                      "ventures/non-profit/northoverse/students/events/student-workshops",
-                      "ventures/non-profit/northoverse/students/events/student-case-studies",
-                      "ventures/non-profit/northoverse/students/events/student-hackathons"
+                      "ventures/non-profit/northoverse/students/college/events/student-workshops",
+                      "ventures/non-profit/northoverse/students/college/events/college-classes",
+                      "ventures/non-profit/northoverse/students/college/events/student-case-studies",
+                      "ventures/non-profit/northoverse/students/college/events/student-hackathons",
+                      "ventures/non-profit/northoverse/students/college/events/high-graduate-checklist"
                     ]
                   },
-                      "ventures/non-profit/northoverse/students/students-network"
+                      "ventures/non-profit/northoverse/students/college/college-students-network"
                     ]
                   },
                   {
