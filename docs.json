@@ -159,7 +159,7 @@
                     "group": "Start-up Applicants",
                     "pages": [
                       {
-                    "group": "Founder Curriculum",
+                    "group": "Founders Curriculum",
                     "pages": [
                       "ventures/non-profit/northoverse/applicants/startup-founder/founder-classes",
                       "ventures/non-profit/northoverse/applicants/startup-founder/founder-case-studies",
@@ -171,12 +171,12 @@
                       {
                     "group": "Apply For Programs!!",
                     "pages": [
-                      "ventures/non-profit/northoverse/applicants/program-overview",
-                      "ventures/non-profit/northoverse/applicants/eligibility",
-                      "ventures/non-profit/northoverse/applicants/application-faq",
-                      "ventures/non-profit/northoverse/applicants/application-process",
-                      "ventures/non-profit/northoverse/applicants/selection-criteria",
-                      "ventures/non-profit/northoverse/applicants/onboarding-guide"
+                      "ventures/non-profit/northoverse/applicants/program-applicants/program-overview",
+                      "ventures/non-profit/northoverse/applicants/program-applicants/eligibility",
+                      "ventures/non-profit/northoverse/applicants/program-applicants/application-faq",
+                      "ventures/non-profit/northoverse/applicants/program-applicants/application-process",
+                      "ventures/non-profit/northoverse/applicants/program-applicants/selection-criteria",
+                      "ventures/non-profit/northoverse/applicants/program-applicants/onboarding-guide"
                     ]
                   }
                     ]
