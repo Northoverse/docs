@@ -158,6 +158,16 @@
                   {
                     "group": "Start-up Applicants",
                     "pages": [
+                      {
+                    "group": "Start-up Founder Curriculum",
+                    "pages": [
+                      "ventures/non-profit/northoverse/applicants/startup-founder/founder-classes",
+                      "ventures/non-profit/northoverse/applicants/startup-founder/founder-case-studies",
+                      "ventures/non-profit/northoverse/applicants/startup-founder/founder-workshops",
+                      "ventures/non-profit/northoverse/applicants/startup-founder/founder-hackathons",
+                      "ventures/non-profit/northoverse/applicants/startup-founder/founder-graduate-checklist"
+                    ]
+                  },
                       "ventures/non-profit/northoverse/applicants/program-overview",
                       "ventures/non-profit/northoverse/applicants/eligibility",
                       "ventures/non-profit/northoverse/applicants/application-faq",
